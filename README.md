@@ -3,4 +3,4 @@ A fork graph that aims to inform people of the recent forks and patches that hav
 
 yall are bullies
 
-https://forks.smhsmh.club
+https://smhsmh.club/forks
